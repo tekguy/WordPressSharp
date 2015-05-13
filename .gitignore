@@ -183,3 +183,7 @@ $RECYCLE.BIN/
 # Sitemap Files
 #*.xml
 #*.sitemap
+
+# Misc Build
+src/_build
+src/build.ps1
